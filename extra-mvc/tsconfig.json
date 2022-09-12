@@ -1,0 +1,12 @@
+{
+  /* "extends": "@sindresorhus/tsconfig", */
+  "compilerOptions": {
+    "noUnusedLocals": false,
+    "module": "commonjs",
+    "outDir": "build",
+    "resolveJsonModule": true,
+    "noUnusedParameters": false,
+    "strict": false,
+    "noImplicitReturns": false
+  }
+}

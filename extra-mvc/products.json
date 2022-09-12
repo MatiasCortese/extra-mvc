@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "PS4"
+    },
+    {
+        "id": 2,
+        "name": "xbox"
+    },
+    {
+        "id": 3,
+        "name": "iPhone 13"
+    },
+    {
+        "id": 4,
+        "name": "Galaxy Fold"
+    },
+    {
+        "id": 5,
+        "name": "Oculus Quest 2"
+    }
+]
